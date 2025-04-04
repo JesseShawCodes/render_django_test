@@ -1,4 +1,6 @@
 notes.txt
+.env
+.venv
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
